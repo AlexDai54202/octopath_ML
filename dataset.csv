@@ -1,0 +1,713 @@
+,Enemy_ID,DisplayName,Fire,Ice,Lightning,Wind,Light,Dark,Sword,Spear,Dagger,Axe,Bow,Staff,asset_path
+0,ENE_BOS_WAR_C01_010,Ritsu Mishuyo,1,0,0,0,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Ken1_BosRitsu_L_A.png
+1,ENE_BOS_WAR_C01_020,Ritsu's Footman,1,0,0,0,0,0,1,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Ken1_MgnEvt_M_A.png
+2,ENE_BOS_WAR_C02_010,Bandelam the Reaper,1,0,0,0,1,0,0,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken2_BosBandelum_L_A.png
+3,ENE_BOS_WAR_C04_010,Rai Mei,1,0,0,0,1,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_Ken4_BosRaimei_L_A.png
+4,ENE_BOS_WAR_C05_010,General Ritsu,1,0,0,0,0,1,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_KenE_BosGeneralRitsu_L_A.png
+5,ENE_BOS_WAR_C05_020,King Mugen,0,0,1,0,1,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_KenE_BosMugen_L_A.png
+6,ENE_BOS_WAR_C05_030,Enshrouded King,0,0,1,1,0,0,1,1,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_KenE_BosMugen_L_B.png
+7,ENE_BOS_MER_C01_010,Giff,0,1,0,0,0,0,0,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Sho1_BosGiff_L_A.png
+8,ENE_BOS_MER_C01_020,Giff's Lackey I,1,1,0,0,0,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Sho1_GngEvt_M_C.png
+9,ENE_BOS_MER_C01_030,Giff's Lackey II,0,1,0,0,0,0,0,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Sho1_GngEvt_M_B.png
+10,ENE_BOS_MER_C01_040,Giff's Lackey III,0,1,0,0,0,0,0,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Sho1_GngEvt_M_D.png
+11,ENE_BOS_MER_C02_010,Garnet,1,0,1,0,0,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Sho2_BosWatchdog_L_A.png
+12,ENE_BOS_MER_C02_030,Mysterious Bones,0,0,0,0,1,0,1,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_Sho2_SklEvt_M_A.png
+13,ENE_BOS_MER_C03_010,Steam Engine,1,0,1,0,0,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Sho3_BosFog_L_A.png
+14,ENE_BOS_MER_C03_020,Enemy in the Mist,0,1,0,1,0,0,1,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_Sho3_BosFog_L_C.png
+15,ENE_BOS_MER_C03_030,Neo Steam Engine,0,0,0,1,0,1,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_Sho3_BosFog_L_D.png
+16,ENE_BOS_MER_C05_010,Steam Tank Obsidian,0,0,0,0,0,1,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_ShoE_BosRock_L_A.png
+17,ENE_BOS_MER_C05_020,Glacis Plate,1,1,0,0,0,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_ShoE_BosRock_L_D1.png
+18,ENE_BOS_MER_C05_030,Smokestack,1,0,1,0,0,0,0,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_ShoE_BosRock_L_C1.png
+19,ENE_BOS_MER_C05_040,Cannon,0,1,1,0,0,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_ShoE_BosRock_L_B1.png
+20,ENE_BOS_CLE_C01_010,Felvarg,0,1,0,0,1,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Sin1_BosBeast_L_A.png
+21,ENE_BOS_CLE_C02_010,Vados the Architect,0,1,0,0,1,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Sin2_BosCriminal_L_A.png
+22,ENE_BOS_CLE_C02_020,Red Wisp,0,1,1,0,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Sin2_ElmEvt_S_A.png
+23,ENE_BOS_CLE_C02_030,Black Wisp,0,0,1,0,1,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_Sin2_ElmEvt_S_B.png
+24,ENE_BOS_CLE_C02_040,Red Elemental,0,1,1,0,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Sin2_ElmEvt_M_A.png
+25,ENE_BOS_CLE_C02_050,Black Elemental,0,0,1,0,1,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_Sin2_ElmEvt_M_B.png
+26,ENE_BOS_CLE_C03_010,Deputy Cubaryi,0,0,0,0,0,0,0,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_Sin3_BosExecutive_L_A.png
+27,ENE_BOS_CLE_C05_010,Captain Kaldena,0,1,0,1,0,0,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_SinE_BosCaldina_L_A.png
+28,ENE_BOS_DAN_C01_010,Duorduor,0,0,0,1,0,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Odo1_BosBoar_L_A.png
+29,ENE_BOS_DAN_C01_020,Forest Marmot,1,0,0,0,0,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Odo1_SqlEvt_S_A.png
+30,ENE_BOS_DAN_C02_010,La'mani,1,1,0,0,0,1,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Odo2_BosLaMani_L_A.png
+31,ENE_BOS_DAN_C02_020,Troupe Dancer,0,0,0,0,0,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Odo2_AcfEvt_M_A.png
+32,ENE_BOS_DAN_C02_030,Troupe Musician,1,0,0,1,1,0,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Odo2_AcmEvt_M_A.png
+33,ENE_BOS_DAN_C04_010,Veronica,1,1,0,0,0,1,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Odo4_BosBodyGuard_L_A.png
+34,ENE_BOS_DAN_C05_010,Dolcinaea,0,0,1,0,0,1,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_OdoE_BosDulcinea_L_A.png
+35,ENE_BOS_DAN_C05_030,Dolcinaea the Star,1,0,0,1,0,0,1,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_OdoE_BosDulcinea_L_B.png
+36,ENE_BOS_SCH_C01_010,Warden Davids,1,0,1,0,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_Gak1_BosDavids_L_A.png
+37,ENE_BOS_SCH_C01_020,Prison Guard,0,1,1,0,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_Gak1_JalEvt_M_A.png
+38,ENE_BOS_SCH_C01_030,Prison Guard,0,1,1,0,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_Gak1_JalEvt_M_A.png
+39,ENE_BOS_SCH_C03_010,Captain Stenvar,0,0,1,0,0,1,1,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Gak3_BosStenvar_L_A.png
+40,ENE_BOS_SCH_C03_020,Stenvar's Footman,1,0,0,1,0,0,0,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_Gak3_SolEvt_M_C.png
+41,ENE_BOS_SCH_C04_010,Grieving Golem,0,0,0,1,1,0,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_Gak4_BosGolem_L_A.png
+42,ENE_BOS_SCH_C05_010,Professor Harvey,1,1,1,0,0,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GakE_BosHarvey_L_A.png
+43,ENE_BOS_SCH_C05_020,Pure Elemental,1,1,1,1,1,0,0,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_GakE_ElmEvt_M_D.png
+44,ENE_BOS_APO_C01_010,Veron,0,0,0,1,0,1,0,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Kus1_BosRat_M_A.png
+45,ENE_BOS_APO_C01_020,Doron,0,1,0,0,0,1,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Kus1_BosRat_M_B.png
+46,ENE_BOS_APO_C02_010,Sand Lion,0,1,0,0,1,1,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Kus2_BosAntlion_L_A.png
+47,ENE_BOS_APO_C02_020,Plukk,1,0,0,0,0,0,1,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Kus2_BosThief_L_A.png
+48,ENE_BOS_APO_C02_030,Mikk,0,1,0,0,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Kus2_MikEvt_M_A.png
+49,ENE_BOS_APO_C02_040,Makk,0,1,1,1,0,0,0,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Kus2_MakEvt_M_A.png
+50,ENE_BOS_APO_C05_010,Trousseau,0,1,0,0,0,1,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_KusE_BosFellow_L_A.png
+51,ENE_BOS_HUN_C01_010,Dark Entity,0,0,1,1,0,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Kar1_BosDark_L_A.png
+52,ENE_BOS_HUN_C01_020,Mysterious Fledgling,0,0,0,1,0,0,0,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Kar1_DakEvt_S_A.png
+53,ENE_BOS_HUN_C02_010,Tera,0,1,0,0,0,1,0,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_Kar2_BosTitan_L_A.png
+54,ENE_BOS_HUN_C02_020,Glacis,1,0,0,0,0,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Kar2_BosFreezer_L_A.png
+55,ENE_BOS_HUN_C02_030,Blue Elemental,1,0,0,0,0,0,1,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Kar2_ElmEvt_M_C.png
+56,ENE_BOS_HUN_C05_010,Lājackal of the Sorrowful Moon,0,1,0,1,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_KarE_BosDarkDog_L_A.png
+57,ENE_BOS_HUN_C05_020,Malamaowl of the Sorrowful Moon,1,0,0,0,0,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_KarE_BosDarkBird_L_A.png
+58,ENE_BOS_HUN_C05_030,Shadow Enemy,0,0,0,0,1,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Kar1_DakEvt_S_A.png
+59,ENE_BOS_THI_C01_010,Pirro,0,0,0,0,1,1,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Tou1_BosPirlo_L_A.png
+60,ENE_BOS_THI_C02_010,Bergomi,1,0,0,0,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Tou2_BosLocalThief_L_A.png
+61,ENE_BOS_THI_C02_020,Bergomi's Lackey,0,0,1,0,1,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_Tou2_ThiEvt_M_C.png
+62,ENE_BOS_THI_C03_010,Mother,0,1,0,0,1,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Tou3_BosMother_L_A.png
+63,ENE_BOS_THI_C03_020,Father,0,0,0,1,1,0,0,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Tou3_BosFather_L_A.png
+64,ENE_BOS_THI_C03_030,Mother's Aide,1,0,1,0,0,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_Tou3_ThiEvt_M_D.png
+65,ENE_BOS_THI_C05_010,Claude,0,0,1,0,0,1,0,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_TouE_BosJot_L_A.png
+66,ENE_BOS_THI_C05_020,Phantom Snake (Man),0,0,0,0,1,1,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_TouE_BosJotPirlo_L_A.png
+67,ENE_BOS_THI_C05_030,Phantom Snake (Mother),0,1,0,0,1,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_TouE_BosJotMother_L_A.png
+68,ENE_BOS_THI_C05_040,Phantom Snake (Father),0,0,0,1,1,0,0,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_TouE_BosJotFather_L_A.png
+69,ENE_BOS_THI_C05_050,Fake Snake (Parent),1,0,1,0,0,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_TouE_BosMarietta_M_A.png
+70,ENE_BOS_THI_C05_060,Fake Snake (Child),0,0,0,0,0,1,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_TouE_BosSolone_M_A.png
+71,ENE_BOS_LST_C02_020,Arcanette,0,1,1,0,0,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosMint_L_A.png
+72,ENE_BOS_LST_C02_030,,1,0,0,1,1,0,0,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_S_A.png
+73,ENE_BOS_LST_C02_040,"Ant, Servant of the Night",1,0,0,1,1,0,0,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_S_B.png
+74,ENE_BOS_LST_C02_050,"Howler, Servant of the Night",0,0,0,0,1,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_S_C.png
+75,ENE_BOS_LST_C02_060,,0,1,1,0,1,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_M_A.png
+76,ENE_BOS_LST_C02_070,"Mushroom, Servant of the Night",1,0,1,0,1,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_M_B.png
+77,ENE_BOS_LST_C02_080,"Condor, Servant of the Night",0,0,1,0,1,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_M_D.png
+78,ENE_BOS_LST_C03_060,Vide,0,0,1,0,1,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_Sin1_BlfEvt_M_A.png
+79,ENE_BOS_LST_C03_061,Wriggling Tentacle,0,1,0,0,1,0,0,1,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosLast1stA_LL_B.png
+80,ENE_BOS_LST_C03_062,Creeping Tentacle,1,0,0,0,0,0,1,0,1,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_End_BosLast1stA_LL_C.png
+81,ENE_BOS_LST_C03_063,Lithe Tentacle,1,1,1,1,1,0,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosLast1stA_LL_D.png
+82,ENE_BOS_LST_C03_064,Thwarting Tentacle,0,0,0,0,0,0,1,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosLast1stA_LL_E.png
+83,ENE_BOS_LST_C03_070,"Vide, the Wicked",0,0,0,1,1,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosLast2ndB_LL_A.png
+84,ENE_BOS_LST_C03_071,Wicked Right Arm,1,0,1,0,1,1,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosLast2ndB_LL_B.png
+85,ENE_BOS_LST_C03_072,Wicked Left Arm,0,0,0,0,0,0,1,0,0,1,1,1,.\enemyicons\UiTX_BtlActOrd_L_End_BosLast2ndB_LL_C.png
+86,ENE_BOS_LST_C03_073,Wicked Right Arm,0,1,0,1,1,1,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosLast2ndA_LL_B.png
+87,ENE_BOS_LST_C03_074,Wicked Left Arm,0,0,0,0,0,0,1,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosLast2ndA_LL_C.png
+88,ENE_EVE_SUB_EXT_015,Karma,0,1,1,0,0,0,0,1,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_Sub_BosKarma_L_A.png
+89,ENE_BOS_EXT_LOW_010,Omniscient Eye,0,0,1,0,1,0,0,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp2nd_LL_B1.png
+90,ENE_BOS_EXT_LOW_020,Wailing Soul,0,0,0,1,1,1,1,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp2nd_LL_C1.png
+91,ENE_BOS_EXT_LOW_021,Wailing Soul,0,1,0,1,0,0,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp2nd_LL_C1.png
+92,ENE_BOS_EXT_LOW_022,Wailing Soul,1,1,1,1,1,0,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp2nd_LL_C1.png
+93,ENE_BOS_EXT_LOW_023,Wailing Soul,0,0,0,1,1,1,1,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp2nd_LL_C1.png
+94,ENE_BOS_EXT_LOW_030,Raging Soul,0,1,0,1,1,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp2nd_LL_D1.png
+95,ENE_BOS_EXT_LOW_031,Raging Soul,0,0,0,0,1,0,0,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp2nd_LL_D1.png
+96,ENE_BOS_EXT_LOW_032,Raging Soul,1,1,1,1,1,0,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp2nd_LL_D1.png
+97,ENE_BOS_EXT_LOW_033,Raging Soul,0,1,0,1,1,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp2nd_LL_D1.png
+98,ENE_BOS_EXT_LOW_040,Screaming Soul,0,1,0,1,0,0,0,1,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp2nd_LL_E1.png
+99,ENE_BOS_EXT_LOW_041,Screaming Soul,0,0,0,0,0,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp2nd_LL_E1.png
+100,ENE_BOS_EXT_LOW_042,Screaming Soul,1,1,1,1,1,0,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp2nd_LL_E1.png
+101,ENE_BOS_EXT_LOW_043,Screaming Soul,0,1,0,1,0,0,0,1,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp2nd_LL_E1.png
+102,ENE_BOS_EXT_UPP_010,"Galdera, the Fallen",0,1,0,0,0,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp_LL_A.png
+103,ENE_BOS_EXT_UPP_020,Abyssal Maw,0,0,0,0,0,0,1,1,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp_LL_B1.png
+104,ENE_BOS_EXT_UPP_030,Sundering Arm,1,0,0,0,1,0,1,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp_LL_C1.png
+105,ENE_BOS_EXT_UPP_040,Blade of the Fallen,1,1,1,1,1,0,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp_LL_D1.png
+106,ENE_BOS_WAR_C04_010_TEST01,Rai Mei,0,0,0,0,0,0,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken4_BosRaimei_L_B.png
+107,ENE_BOS_CLE_C05_010_TEST01,Captain Kaldena,1,0,0,1,0,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_SinE_BosCaldina_L_B.png
+108,ENE_BOS_SCH_C05_010_TEST01,Professor Harvey,1,1,1,0,0,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GakE_BosHarvey_L_B.png
+109,ENE_BOS_APO_C05_010_TEST01,Trousseau,1,0,0,1,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_KusE_BosFellow_L_B.png
+110,ENE_BOS_HUN_C05_010_TEST01,Lājackal of the Sorrowful Moon,1,0,0,0,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_KarE_BosDarkDog_L_B.png
+111,ENE_BOS_HUN_C05_010_TEST02,Lājackal of the Sorrowful Moon,1,0,0,0,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_KarE_BosDarkDog_L_C.png
+112,ENE_BOS_HUN_C05_020_TEST01,Malamaowl of the Sorrowful Moon,1,0,0,0,0,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_KarE_BosDarkBird_L_B.png
+113,ENE_BOS_HUN_C05_020_TEST02,Malamaowl of the Sorrowful Moon,1,0,0,0,0,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_KarE_BosDarkBird_L_C.png
+114,ENE_BOS_THI_C01_010_TEST01,Pirro,0,0,0,0,1,1,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Tou1_BosPirlo_L_B.png
+115,ENE_NML_FLD_DST_010,Desert Ape I,0,1,0,1,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_MnkDst_S_A.png
+116,ENE_NML_FLD_DST_020,Desert Ape II,0,1,0,1,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_MnkDst_S_B.png
+117,ENE_NML_FLD_DST_030,Desert Ape III,0,1,1,0,0,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MnkDst_S_C.png
+118,ENE_NML_FLD_DST_040,Desert Ape IV,0,0,0,1,0,1,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_MnkDst_S_D.png
+119,ENE_NML_FLD_DST_050,Desert Ape V,0,1,0,1,0,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MnkDst_S_E.png
+120,ENE_NML_FLD_DST_060,Desert Ape VI,0,0,0,0,0,1,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MnkDst_S_F.png
+121,ENE_NML_FLD_DST_070,Desert Apeking I,0,1,0,1,0,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MnkDst_M_A.png
+122,ENE_NML_FLD_DST_080,Desert Apeking II,0,0,0,1,0,1,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MnkDst_M_B.png
+123,ENE_NML_FLD_DST_090,Desert Apeking III,0,0,0,1,0,0,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MnkDst_M_C.png
+124,ENE_NML_FLD_DST_100,Army Ant,0,0,0,1,0,0,1,0,0,1,1,1,.\enemyicons\UiTX_BtlActOrd_L_AntMnt_S_A.png
+125,ENE_NML_FLD_DST_110,Dire Army Ant,1,0,0,0,0,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_AntMnt_S_B.png
+126,ENE_NML_FLD_DST_120,Cactus Roller,1,0,0,0,0,0,0,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_ScaDst_S_A.png
+127,ENE_NML_FLD_DST_130,Skull Roller,0,0,0,1,1,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_ScaDst_S_B.png
+128,ENE_NML_FLD_DST_140,Dark Roller,0,1,1,0,0,0,0,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_ScaDst_S_C.png
+129,ENE_NML_FLD_DST_150,Dire Skull Roller,0,0,1,0,0,0,0,0,1,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_ScaDst_S_D.png
+130,ENE_NML_FLD_DST_160,Sandworm,0,0,0,1,1,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_WrmDst_M_A.png
+131,ENE_NML_FLD_DST_170,Desert Worm,0,0,0,1,1,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_WrmDst_M_B.png
+132,ENE_NML_FLD_DST_180,Spiked Skink,0,0,0,1,0,1,0,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_ChtDst_M_A.png
+133,ENE_NML_FLD_DST_190,Carmine Eagle,0,0,0,1,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_EglClf_M_B.png
+134,ENE_NML_FLD_DST_200,Giant Scorpion,0,0,0,1,0,0,0,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_ScpDst_S_A.png
+135,ENE_NML_FLD_DST_210,Savage Scorpion,0,1,0,0,1,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_ScpDst_S_B.png
+136,ENE_NML_FLD_DST_220,Venomous Scorpion,0,1,0,1,0,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_ScpDst_S_D.png
+137,ENE_NML_FLD_DST_230,Assassin Bug,1,1,0,0,0,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_AcbDug_S_A.png
+138,ENE_NML_FLD_DST_240,Killer Bug,1,1,0,0,0,0,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_AcbDug_S_B.png
+139,ENE_NML_FLD_DST_250,Slayer Bug,0,0,1,0,1,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_AcbDug_S_C.png
+140,ENE_NML_FLD_DST_260,Woolly Spider,0,0,1,0,0,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_SpyClf_M_A.png
+141,ENE_NML_FLD_DST_270,Withered Wanderweed,1,0,0,1,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_PltDst_M_B.png
+142,ENE_NML_FLD_DST_280,Lord of the Sands,0,1,0,0,1,0,1,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_WrmDst_L_A.png
+143,ENE_NML_FLD_DST_290,Marionette Skeleton,1,0,0,0,1,0,0,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SklDst_M_A.png
+144,ENE_NML_FLD_DST_300,Undead Soldier,1,0,0,0,1,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_SklDst_M_B.png
+145,ENE_NML_FLD_DST_310,Headless Horseman,1,0,1,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_ArmDst_M_A.png
+146,ENE_NML_FLD_SNW_010,Frost Mole I,1,0,0,0,1,0,0,0,1,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_MolSnw_S_A.png
+147,ENE_NML_FLD_SNW_020,Frost Mole II,1,0,0,0,1,0,1,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_MolSnw_S_B.png
+148,ENE_NML_FLD_SNW_030,Frost Mole III,0,0,0,1,1,0,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MolSnw_S_C.png
+149,ENE_NML_FLD_SNW_040,Frost Mole IV,1,0,0,0,0,1,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_MolSnw_S_D.png
+150,ENE_NML_FLD_SNW_050,Frost Mole V,1,0,0,0,1,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_MolSnw_S_E.png
+151,ENE_NML_FLD_SNW_060,Frost Mole VI,0,0,0,0,1,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_MolSnw_S_F.png
+152,ENE_NML_FLD_SNW_070,Frost Moleking I,0,0,0,1,0,0,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MolSnw_M_A.png
+153,ENE_NML_FLD_SNW_080,Frost Moleking II,0,0,1,0,1,0,0,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MolSnw_M_B.png
+154,ENE_NML_FLD_SNW_090,Frost Moleking III,0,0,0,0,0,1,1,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MolSnw_M_C.png
+155,ENE_NML_FLD_SNW_100,Snow Marmot,0,1,1,0,1,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_SqlSnw_S_A.png
+156,ENE_NML_FLD_SNW_110,Majestic Snow Marmot,1,0,0,0,0,0,0,0,1,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_SqlSnw_S_B.png
+157,ENE_NML_FLD_SNW_120,Frost Bear,0,0,1,0,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_BerSnw_M_A.png
+158,ENE_NML_FLD_SNW_130,Snow Leopard,1,0,0,0,0,1,0,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_LeoSnw_M_A.png
+159,ENE_NML_FLD_SNW_140,Snow Lizard,1,0,0,0,0,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_ChtDst_M_B.png
+160,ENE_NML_FLD_SNW_150,Snow Yak,0,0,1,0,0,1,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_YakSnw_M_A.png
+161,ENE_NML_FLD_SNW_160,Ash Raven,0,0,1,1,0,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_CrwPln_S_C.png
+162,ENE_NML_FLD_SNW_170,Dire Ash Raven,0,0,0,0,1,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_CrwPln_S_D.png
+163,ENE_NML_FLD_SNW_180,White Howler,0,0,0,1,0,1,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_OwlSnw_S_A.png
+164,ENE_NML_FLD_SNW_190,Hoary Howler,0,0,0,0,0,1,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_OwlSnw_S_B.png
+165,ENE_NML_FLD_SNW_200,Frostwing Serpent,1,0,0,0,0,0,0,1,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_SndMnt_M_B.png
+166,ENE_NML_FLD_SNW_210,Snow Drake,0,0,0,0,1,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_DraSnw_M_A.png
+167,ENE_NML_FLD_SNW_220,Winter Wanderweed,1,0,0,0,0,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_PltDst_M_C.png
+168,ENE_NML_FLD_SNW_230,Avalanche Mushroom,1,0,0,0,0,0,0,0,1,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_MshFst_M_B.png
+169,ENE_NML_FLD_SNW_240,Reptalios,0,0,0,0,1,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_CmlRvr_M_B.png
+170,ENE_NML_FLD_SNW_250,White Bat,1,0,0,0,1,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_BatCav_S_F.png
+171,ENE_NML_FLD_SNW_260,Albino Bat,0,0,0,0,0,1,0,1,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_BatCav_S_G.png
+172,ENE_NML_FLD_SNW_270,Dreadwolf,1,0,0,1,0,0,0,1,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_WlfSnw_L_A.png
+173,ENE_NML_FLD_SNW_280,Behemoth,0,1,0,0,0,0,0,1,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_MmsPln_L_A.png
+174,ENE_NML_FLD_SNW_290,Wolf,1,0,1,0,1,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_WlfSnw_S_A.png
+175,ENE_NML_FLD_SNW_300,High Wolf,0,0,0,1,1,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_WlfSnw_S_B.png
+176,ENE_NML_FLD_SNW_310,Snow Fox,1,0,1,0,0,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_FoxSnw_S_C.png
+177,ENE_NML_FLD_SNW_320,Frost Fox,0,0,1,0,0,0,0,1,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_FoxSnw_S_D.png
+178,ENE_NML_FLD_SNW_330,Electric Panther,1,0,0,0,1,0,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_LeoSnw_S_A.png
+179,ENE_NML_FLD_SNW_340,Lightning Panther,0,0,0,1,0,1,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_LeoSnw_S_B.png
+180,ENE_NML_FLD_SNW_350,Black Panther,0,0,0,0,0,1,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_PntSnw_M_A.png
+181,ENE_NML_FLD_MNT_010,Mountain Ape I,0,1,0,0,1,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MnkMnt_S_A.png
+182,ENE_NML_FLD_MNT_020,Mountain Ape II,0,1,0,0,1,0,1,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MnkMnt_S_B.png
+183,ENE_NML_FLD_MNT_030,Mountain Ape III,0,0,1,1,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MnkMnt_S_C.png
+184,ENE_NML_FLD_MNT_040,Mountain Ape IV,1,0,1,0,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_MnkMnt_S_D.png
+185,ENE_NML_FLD_MNT_050,Mountain Ape V,0,0,1,1,0,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MnkMnt_S_E.png
+186,ENE_NML_FLD_MNT_060,Mountain Ape VI,0,0,1,0,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MnkMnt_S_F.png
+187,ENE_NML_FLD_MNT_070,Mountain Apeking I,0,1,0,0,0,0,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MnkMnt_M_A.png
+188,ENE_NML_FLD_MNT_080,Mountain Apeking II,0,0,1,0,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MnkMnt_M_B.png
+189,ENE_NML_FLD_MNT_090,Mountain Apeking III,0,0,1,1,0,0,0,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MnkMnt_M_C.png
+190,ENE_NML_FLD_MNT_100,Highland Goat,0,0,0,0,1,0,1,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_GotMnt_M_A.png
+191,ENE_NML_FLD_MNT_110,Mountain Goat,0,0,0,0,1,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_GotMnt_M_B.png
+192,ENE_NML_FLD_MNT_120,Demon Goat,0,0,0,1,0,0,1,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_GotMnt_M_C.png
+193,ENE_NML_FLD_MNT_130,Wild Weasel,0,1,0,0,0,1,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_WslMnt_M_A.png
+194,ENE_NML_FLD_MNT_140,Shaggy Aurochs,1,0,0,0,0,0,0,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_YakMnt_M_A.png
+195,ENE_NML_FLD_MNT_150,Shadow Raven,0,1,0,1,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_CrwPln_S_E.png
+196,ENE_NML_FLD_MNT_160,Giant Falcon,1,0,0,0,1,0,1,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FlcMnt_S_A.png
+197,ENE_NML_FLD_MNT_170,Dread Falcon,0,1,0,0,1,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FlcMnt_S_B.png
+198,ENE_NML_FLD_MNT_180,Giant Eagle,0,0,0,1,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_EglClf_M_A.png
+199,ENE_NML_FLD_MNT_190,Winged Serpent,0,0,0,1,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_SndMnt_M_A.png
+200,ENE_NML_FLD_MNT_200,Devourer of Dreams,0,0,0,1,0,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_DmnMnt_L_A.png
+201,ENE_NML_FLD_MNT_210,Rockadillo,0,0,0,0,0,1,0,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_ArmMnt_S_A.png
+202,ENE_NML_FLD_MNT_220,Dark Porcupine,0,0,1,0,0,0,1,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_YmaMnt_S_C.png
+203,ENE_NML_FLD_MNT_230,Dark Spiny Shrew,0,0,0,0,0,1,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_YmaMnt_S_D.png
+204,ENE_NML_FLD_MNT_240,Mountain Anteater,0,0,0,0,0,1,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_AneMnt_M_A.png
+205,ENE_NML_FLD_CTY_010,City Ratkin I,1,0,0,0,1,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_MusCty_S_A.png
+206,ENE_NML_FLD_CTY_020,City Ratkin II,1,0,0,0,1,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_MusCty_S_B.png
+207,ENE_NML_FLD_CTY_030,City Ratkin III,0,0,1,0,1,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_MusCty_S_C.png
+208,ENE_NML_FLD_CTY_040,City Ratkin IV,0,1,0,0,1,0,0,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_MusCty_S_D.png
+209,ENE_NML_FLD_CTY_050,City Ratkin V,1,0,1,0,1,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MusCty_S_E.png
+210,ENE_NML_FLD_CTY_060,City Ratkin VI,0,0,1,0,0,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_MusCty_S_F.png
+211,ENE_NML_FLD_CTY_070,City Ratking I,1,0,0,0,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_MusCty_M_A.png
+212,ENE_NML_FLD_CTY_080,City Ratking II,0,0,0,0,1,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MusCty_M_B.png
+213,ENE_NML_FLD_CTY_090,City Ratking III,0,1,0,0,0,1,0,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MusCty_M_C.png
+214,ENE_NML_FLD_CTY_100,Giant Sheep,0,0,0,0,0,1,0,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_ShpPln_M_A.png
+215,ENE_NML_FLD_CTY_110,Mammoth Sheep,0,0,0,0,0,1,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_ShpPln_M_B.png
+216,ENE_NML_FLD_CTY_120,Night Raven,0,1,0,0,1,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_CrwPln_S_A.png
+217,ENE_NML_FLD_CTY_130,Dire Night Raven,0,0,1,0,1,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_CrwPln_S_B.png
+218,ENE_NML_FLD_CTY_140,Aggressive Ant,0,0,0,0,1,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_AntPln_S_A.png
+219,ENE_NML_FLD_CTY_150,Antagonistic Ant,0,0,0,0,1,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_AntPln_S_B.png
+220,ENE_NML_FLD_CTY_160,Wicked Wasp,1,0,0,0,0,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_WspRvr_S_A.png
+221,ENE_NML_FLD_CTY_170,Warrior Wasp,0,0,0,0,0,1,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_WspRvr_S_B.png
+222,ENE_NML_FLD_CTY_180,Giant Slug,0,1,1,0,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_SnlRvr_S_A.png
+223,ENE_NML_FLD_CTY_190,Fierce Fly,0,1,0,0,1,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FlyRvr_S_A.png
+224,ENE_NML_FLD_CTY_200,Horse Fly,0,0,0,0,1,1,0,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_FlyRvr_S_B.png
+225,ENE_NML_FLD_CTY_210,Horned Fly,0,1,0,1,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FlyRvr_S_C.png
+226,ENE_NML_FLD_CTY_220,Lord of the Flies,0,0,0,1,1,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FlyRvr_M_A.png
+227,ENE_NML_FLD_CTY_230,Shaggy Spider,0,1,0,0,0,0,0,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SpyClf_M_B.png
+228,ENE_NML_FLD_CTY_240,Plains Drake,0,0,0,0,0,1,0,0,0,1,1,1,.\enemyicons\UiTX_BtlActOrd_L_DraPln_M_A.png
+229,ENE_NML_FLD_CTY_250,Icky Slug,1,0,0,0,1,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_SlgDng_M_B.png
+230,ENE_NML_FLD_CTY_260,Gigantes,1,1,1,0,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BflRvr_L_A.png
+231,ENE_NML_FLD_CTY_270,Mad Ratkin,1,0,0,0,1,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_MusCty_S_G.png
+232,ENE_NML_FLD_CTY_280,Mad Ratking,0,0,1,0,1,1,0,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MusCty_M_D.png
+233,ENE_NML_FLD_ISD_010,Island Froggen I,0,1,1,1,0,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_FrgIsd_S_A.png
+234,ENE_NML_FLD_ISD_020,Island Froggen II,1,1,1,0,0,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_FrgIsd_S_B.png
+235,ENE_NML_FLD_ISD_030,Island Froggen III,0,1,0,0,0,1,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_FrgIsd_S_C.png
+236,ENE_NML_FLD_ISD_040,Island Froggen IV,1,1,0,0,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_FrgIsd_S_D.png
+237,ENE_NML_FLD_ISD_050,Island Froggen V,0,0,0,1,0,1,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_FrgIsd_S_E.png
+238,ENE_NML_FLD_ISD_060,Island Froggen VI,0,1,0,0,0,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_FrgIsd_S_F.png
+239,ENE_NML_FLD_ISD_070,Island Frogking I,0,1,0,0,0,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_FrgIsd_M_A.png
+240,ENE_NML_FLD_ISD_080,Island Frogking II,0,1,0,0,1,0,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_FrgIsd_M_B.png
+241,ENE_NML_FLD_ISD_090,Island Frogking III,0,1,0,0,0,1,0,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_FrgIsd_M_C.png
+242,ENE_NML_FLD_ISD_100,Meep,0,1,1,0,0,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_PigPln_S_A.png
+243,ENE_NML_FLD_ISD_110,Shaggy Meep,0,0,1,1,0,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_PigPln_S_B.png
+244,ENE_NML_FLD_ISD_120,Lloris,0,0,1,1,0,0,0,0,1,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_MnkClf_S_A.png
+245,ENE_NML_FLD_ISD_130,Long-Eared Lloris,0,1,0,1,0,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_MnkClf_S_B.png
+246,ENE_NML_FLD_ISD_140,Blue Bull,0,0,0,0,1,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_CowPln_M_B.png
+247,ENE_NML_FLD_ISD_150,Black Howler,0,0,0,1,1,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_OwlFst_S_C.png
+248,ENE_NML_FLD_ISD_160,Kartikeya,0,0,0,0,0,0,0,1,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_PckDst_M_A.png
+249,ENE_NML_FLD_ISD_170,Motley Slug,1,0,0,0,0,0,1,0,0,1,1,1,.\enemyicons\UiTX_BtlActOrd_L_SnlRvr_S_B.png
+250,ENE_NML_FLD_ISD_180,Brutal Bug,1,0,0,1,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AcbRvr_S_A.png
+251,ENE_NML_FLD_ISD_190,Salamander,0,1,0,0,1,0,0,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_SlmRvr_M_A.png
+252,ENE_NML_FLD_ISD_200,Collared Salamander,1,0,0,0,1,0,0,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_SlmRvr_M_B.png
+253,ENE_NML_FLD_ISD_210,Killer Chameleon,0,0,0,1,0,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_CmlRvr_M_A.png
+254,ENE_NML_FLD_ISD_220,Giant Gator,0,0,1,0,0,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_CrcRvr_M_A.png
+255,ENE_NML_FLD_ISD_230,Sticky Slug,0,1,0,0,1,0,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_SlgDng_M_A.png
+256,ENE_NML_FLD_ISD_240,Monarch,0,0,0,0,0,1,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BtfFst_L_A.png
+257,ENE_NML_FLD_ISD_250,Manymaws,1,0,0,0,0,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_MblFst_L_A.png
+258,ENE_NML_FLD_ISD_260,Evil Jellyfish,0,1,0,0,1,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_JlyIsd_S_A.png
+259,ENE_NML_FLD_ISD_270,Dread Jellyfish,0,0,0,0,1,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_JlyIsd_S_B.png
+260,ENE_NML_FLD_ISD_280,Demon Jellyfish,0,0,1,0,0,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_JlyIsd_M_A.png
+261,ENE_NML_FLD_SEA_010,Ocean Lizardman I,0,1,0,1,0,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_LzdSea_S_A.png
+262,ENE_NML_FLD_SEA_020,Ocean Lizardman II,0,1,0,1,0,0,1,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_LzdSea_S_B.png
+263,ENE_NML_FLD_SEA_030,Ocean Lizardman III,0,1,0,0,0,1,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_LzdSea_S_C.png
+264,ENE_NML_FLD_SEA_040,Ocean Lizardman IV,0,1,1,0,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_LzdSea_S_D.png
+265,ENE_NML_FLD_SEA_050,Ocean Lizardman V,0,1,0,0,0,1,0,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_LzdSea_S_E.png
+266,ENE_NML_FLD_SEA_060,Ocean Lizardman VI,1,0,0,0,0,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_LzdSea_S_F.png
+267,ENE_NML_FLD_SEA_070,Ocean Lizardking I,0,1,0,0,0,0,1,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_LzdSea_M_A.png
+268,ENE_NML_FLD_SEA_080,Ocean Lizardking II,0,1,0,0,0,0,0,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_LzdSea_M_B.png
+269,ENE_NML_FLD_SEA_090,Ocean Lizardking III,0,1,0,0,0,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_LzdSea_M_C.png
+270,ENE_NML_FLD_SEA_100,Kingfisher,1,0,1,0,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_SbdSea_M_A.png
+271,ENE_NML_FLD_SEA_110,Greater Kingfisher,0,0,0,0,1,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_SbdSea_M_B.png
+272,ENE_NML_FLD_SEA_120,Portly Penguin,0,0,0,0,1,1,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_PlcSnw_M_A.png
+273,ENE_NML_FLD_SEA_130,Sea Scorpion,1,0,0,0,1,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_ScpDst_S_C.png
+274,ENE_NML_FLD_SEA_140,Sea Slug,1,0,0,0,0,0,0,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SnlRvr_S_C.png
+275,ENE_NML_FLD_SEA_150,Hermit Conch,0,0,0,0,1,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_HmtSea_S_A.png
+276,ENE_NML_FLD_SEA_160,Flying Fish,0,1,1,0,0,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FfhSea_S_A.png
+277,ENE_NML_FLD_SEA_170,Sailfish,0,1,0,0,1,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_FfhSea_S_B.png
+278,ENE_NML_FLD_SEA_180,Scissor Crab,0,0,1,0,0,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_ClbSea_S_A.png
+279,ENE_NML_FLD_SEA_190,Scythe Crab,1,0,0,1,0,0,1,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_ClbSea_S_B.png
+280,ENE_NML_FLD_SEA_200,Black Scissors,0,0,1,0,0,0,0,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_ClbSea_S_E.png
+281,ENE_NML_FLD_SEA_210,Reaper Crab,1,0,0,0,0,0,0,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_ClbSea_M_A.png
+282,ENE_NML_FLD_SEA_220,Rock Tortoise,0,0,0,0,0,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_TtsSea_M_A.png
+283,ENE_NML_FLD_SEA_230,Mossy Tortoise,1,0,0,0,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_TtsSea_M_B.png
+284,ENE_NML_FLD_SEA_240,Sea Anemone,0,0,0,0,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_UcnSea_M_A.png
+285,ENE_NML_FLD_SEA_250,Azure Urchin,0,0,0,0,1,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_UcnSea_M_B.png
+286,ENE_NML_FLD_SEA_260,Cetus Maximus,1,0,0,0,0,1,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_WhlSea_M_A.png
+287,ENE_NML_FLD_SEA_270,Gooey Slug,0,0,0,1,0,1,0,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_SlgDng_M_C.png
+288,ENE_NML_FLD_SEA_280,Deep One,1,0,0,0,1,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_KrkSea_L_A.png
+289,ENE_NML_FLD_SEA_290,Tyrannodrake,0,0,0,0,0,0,1,1,1,1,1,1,.\enemyicons\UiTX_BtlActOrd_L_DrgCav_L_A.png
+290,ENE_NML_FLD_FST_010,Woodland Birdian I,0,1,0,1,0,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BrdFst_S_A.png
+291,ENE_NML_FLD_FST_020,Woodland Birdian II,1,0,0,1,0,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BrdFst_S_B.png
+292,ENE_NML_FLD_FST_030,Woodland Birdian III,0,0,0,0,1,1,0,0,0,1,1,1,.\enemyicons\UiTX_BtlActOrd_L_BrdFst_S_C.png
+293,ENE_NML_FLD_FST_040,Woodland Birdian IV,0,0,0,1,0,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BrdFst_S_D.png
+294,ENE_NML_FLD_FST_050,Woodland Birdian V,0,0,0,1,0,1,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BrdFst_S_E.png
+295,ENE_NML_FLD_FST_060,Woodland Birdian VI,0,0,0,0,0,1,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BrdFst_S_F.png
+296,ENE_NML_FLD_FST_070,Woodland Birdking I,0,0,0,1,0,1,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BrdFst_M_A.png
+297,ENE_NML_FLD_FST_080,Woodland Birdking II,0,1,0,1,0,0,0,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_BrdFst_M_B.png
+298,ENE_NML_FLD_FST_090,Woodland Birdking III,0,0,0,1,0,0,0,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_BrdFst_M_C.png
+299,ENE_NML_FLD_FST_100,Mossy Meep,1,0,0,1,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_PigFst_S_A.png
+300,ENE_NML_FLD_FST_110,Marmot,1,0,0,0,0,0,0,1,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SqlFst_S_A.png
+301,ENE_NML_FLD_FST_120,Majestic Marmot,0,1,0,1,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_SqlFst_S_B.png
+302,ENE_NML_FLD_FST_130,Hoary Bear,0,0,0,1,0,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_BerSnw_M_B.png
+303,ENE_NML_FLD_FST_140,Giant Boar,1,0,0,0,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_WbrFst_M_A.png
+304,ENE_NML_FLD_FST_150,Gargantuan Boar,0,0,0,0,1,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_WbrFst_M_B.png
+305,ENE_NML_FLD_FST_160,Demon Deer,0,0,0,0,0,1,0,1,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_DerFst_M_A.png
+306,ENE_NML_FLD_FST_170,Devil Deer,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_DerFst_M_B.png
+307,ENE_NML_FLD_FST_180,Howler,0,1,0,0,0,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_OwlFst_S_A.png
+308,ENE_NML_FLD_FST_190,Horned Howler,0,0,0,1,1,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_OwlFst_S_B.png
+309,ENE_NML_FLD_FST_200,Green Scissors,0,0,1,0,0,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_ClbSea_S_D.png
+310,ENE_NML_FLD_FST_210,Raging Treant,1,0,0,0,0,1,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_PltClf_M_C.png
+311,ENE_NML_FLD_FST_220,Peek-a-Boo,0,0,1,0,1,0,0,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_WodFst_M_A.png
+312,ENE_NML_FLD_FST_230,Carnivorous Plant,1,1,0,0,1,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_FlwFst_L_A.png
+313,ENE_NML_FLD_FST_240,Forest Fox,0,0,1,0,0,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FoxSnw_S_A.png
+314,ENE_NML_FLD_FST_250,Red Fox,0,0,1,0,0,1,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_FoxSnw_S_B.png
+315,ENE_NML_FLD_FST_260,Porcupine,0,0,1,0,0,1,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_YmaFst_S_A.png
+316,ENE_NML_FLD_FST_270,Spiny Shrew,1,0,0,1,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_YmaFst_S_B.png
+317,ENE_NML_FLD_FST_280,Silky Cocoon,1,0,0,0,1,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_CocFst_S_A.png
+318,ENE_NML_FLD_FST_290,Great Silk Moth,1,0,0,0,0,1,0,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_MotFst_M_A.png
+319,ENE_NML_FLD_WLD_010,Wild Mole I,0,1,0,0,1,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_MolWld_S_A.png
+320,ENE_NML_FLD_WLD_020,Wild Mole II,0,1,0,0,1,0,0,1,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MolWld_S_B.png
+321,ENE_NML_FLD_WLD_030,Wild Mole III,0,0,0,0,1,0,0,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_MolWld_S_C.png
+322,ENE_NML_FLD_WLD_040,Wild Mole IV,0,0,0,0,1,0,0,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_MolWld_S_D.png
+323,ENE_NML_FLD_WLD_050,Wild Mole V,0,0,0,0,1,0,1,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_MolWld_S_E.png
+324,ENE_NML_FLD_WLD_060,Wild Mole VI,0,0,1,0,0,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MolWld_S_F.png
+325,ENE_NML_FLD_WLD_070,Wild Moleking I,0,1,0,0,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MolWld_M_A.png
+326,ENE_NML_FLD_WLD_080,Wild Moleking II,0,1,0,1,0,0,1,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MolWld_M_B.png
+327,ENE_NML_FLD_WLD_090,Wild Moleking III,0,1,0,0,0,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_MolWld_M_C.png
+328,ENE_NML_FLD_WLD_100,Laughing Hyaena,1,0,0,0,1,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_HyeClf_S_A.png
+329,ENE_NML_FLD_WLD_110,Raging Rhino,0,1,0,0,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_RnoPln_M_A.png
+330,ENE_NML_FLD_WLD_120,Bloody Rhino,0,1,0,0,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_RnoPln_M_B.png
+331,ENE_NML_FLD_WLD_130,Armor Eater,0,0,0,0,0,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_ArmClf_M_A.png
+332,ENE_NML_FLD_WLD_140,Bloody Bull,0,1,0,0,1,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_CowPln_M_A.png
+333,ENE_NML_FLD_WLD_150,Tempest Falcon,0,0,0,1,1,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FlcMnt_S_C.png
+334,ENE_NML_FLD_WLD_160,Dreadwing,0,0,1,0,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BrdRvr_M_A.png
+335,ENE_NML_FLD_WLD_170,Great Condor,0,0,0,0,1,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BzdClf_M_A.png
+336,ENE_NML_FLD_WLD_180,King Condor,0,0,1,0,0,0,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_BzdClf_M_B.png
+337,ENE_NML_FLD_WLD_190,Wanderweed,1,0,0,0,0,1,1,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_PltDst_M_A.png
+338,ENE_NML_FLD_WLD_200,Reptalion,0,0,0,0,0,1,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_CmlRvr_M_C.png
+339,ENE_NML_FLD_WLD_210,Eggling,1,0,0,1,0,0,1,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_EggClf_S_A.png
+340,ENE_NML_FLD_WLD_220,Hatchling,1,0,0,1,0,0,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_EggClf_S_B.png
+341,ENE_NML_FLD_WLD_230,Two-Handed Hatchling,1,0,0,0,1,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_EggClf_S_C.png
+342,ENE_NML_FLD_WLD_240,Crawly Fledgling,1,0,0,0,0,0,0,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_YngClf_S_A.png
+343,ENE_NML_FLD_WLD_250,Creepy Fledgling,0,0,1,0,0,0,0,0,1,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_YngClf_S_B.png
+344,ENE_NML_FLD_WLD_260,Heavenwing,0,0,1,0,0,0,1,1,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_BdrClf_L_A.png
+345,ENE_NML_FLD_WLD_270,Gabbrodillo,1,0,0,1,0,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_ArmFst_S_A.png
+346,ENE_NML_FLD_WLD_280,Thug II,1,0,0,0,0,0,0,0,1,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_Sho1_GngEvt_M_B.png
+347,ENE_NML_DNG_CAV_010,Barnacle Crab,0,0,0,1,1,1,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_ClbSea_S_C.png
+348,ENE_NML_DNG_CAV_020,Barnacle Tortoise,0,0,0,0,1,1,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_TtsSea_M_C.png
+349,ENE_NML_DNG_CAV_030,Scaled Viper,1,0,0,0,1,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_SnkCav_S_A.png
+350,ENE_NML_DNG_CAV_040,Dread Viper,0,0,0,0,1,0,0,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SnkCav_S_B.png
+351,ENE_NML_DNG_CAV_050,Sea Snake,1,0,0,0,0,1,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_SnkSea_S_A.png
+352,ENE_NML_DNG_CAV_060,Red Viper,0,1,0,0,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_SnkRvr_S_B.png
+353,ENE_NML_DNG_CAV_070,Blood Viper,0,1,0,0,1,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_SnkRvr_S_C.png
+354,ENE_NML_DNG_CAV_080,Ettin Asp,0,0,0,1,0,0,0,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SnkCav_M_A.png
+355,ENE_NML_DNG_CAV_090,Ettin Serpent,0,0,0,0,1,0,0,0,1,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_SnkCav_M_B.png
+356,ENE_NML_DNG_CAV_100,Ettin Snake,0,0,0,0,0,1,0,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SnkCav_M_D.png
+357,ENE_NML_DNG_CAV_110,Ettin Ophidian,0,0,0,1,1,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_SnkCav_M_E.png
+358,ENE_NML_DNG_CAV_120,Animated Armor,0,0,1,0,0,1,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_ArmSnw_M_A.png
+359,ENE_NML_DNG_CAV_130,Accursed Armor,1,0,0,0,0,0,0,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_ArmSnw_M_B.png
+360,ENE_NML_DNG_CAV_140,Ambling Bones,0,0,0,1,1,0,0,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_SklDng_M_A.png
+361,ENE_NML_DNG_CAV_150,Warrior Bones,1,0,0,0,1,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_SklDng_M_B.png
+362,ENE_NML_DNG_CAV_160,Brawler Bones,1,0,0,0,1,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_SklDng_M_C.png
+363,ENE_NML_DNG_CAV_170,Marionette Bones,0,0,0,1,1,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SklDng_M_D.png
+364,ENE_NML_DNG_CAV_180,Puppet Bones,1,0,0,0,1,0,0,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_SklDng_M_E.png
+365,ENE_NML_DNG_CAV_190,Bandit Bones,0,0,1,0,1,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SklDng_M_F.png
+366,ENE_NML_DNG_CAV_200,Brigand Bones,1,0,0,0,1,0,0,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SklDng_M_G.png
+367,ENE_NML_DNG_CAV_210,Buccaneer Bones,0,0,1,0,1,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_SklSea_M_A.png
+368,ENE_NML_DNG_CAV_220,Davy Bones,0,0,0,1,1,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SklSea_M_B.png
+369,ENE_NML_DNG_CAV_230,Black Bat,1,0,0,0,1,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BatCav_S_A.png
+370,ENE_NML_DNG_CAV_240,Shadow Bat,0,1,0,0,0,0,1,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BatCav_S_B.png
+371,ENE_NML_DNG_CAV_250,Barnacle Bat,0,1,0,0,1,1,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BatCav_S_C.png
+372,ENE_NML_DNG_CAV_260,Vampire Bat,0,0,0,0,1,0,1,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BbtCav_S_B.png
+373,ENE_NML_DNG_CAV_270,Carnivorous Bat,0,1,0,0,1,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BbtCav_S_A.png
+374,ENE_NML_DNG_CAV_280,Vagrant Ratkin I,0,0,1,0,0,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_MusMnt_S_A.png
+375,ENE_NML_DNG_CAV_290,Vagrant Ratkin II,0,0,1,0,0,0,1,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MusMnt_S_B.png
+376,ENE_NML_DNG_CAV_300,Vagrant Ratkin III,0,0,1,0,0,1,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_MusMnt_S_C.png
+377,ENE_NML_DNG_CAV_310,Vagrant Ratkin IV,0,0,1,0,1,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_MusMnt_S_D.png
+378,ENE_NML_DNG_CAV_320,Vagrant Ratkin V,0,0,0,0,1,1,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_MusMnt_S_E.png
+379,ENE_NML_DNG_CAV_330,Vagrant Ratkin VI,0,0,0,0,0,1,0,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_MusMnt_S_F.png
+380,ENE_NML_DNG_CAV_340,Vagrant Ratking I,0,0,1,0,1,0,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MusMnt_M_A.png
+381,ENE_NML_DNG_CAV_350,Vagrant Ratking II,0,0,1,0,1,0,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MusMnt_M_B.png
+382,ENE_NML_DNG_CAV_360,Vagrant Ratking III,0,0,0,0,0,1,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MusMnt_M_C.png
+383,ENE_NML_DNG_CAV_370,Ancient Lizardman I,1,0,1,0,0,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_LzdSnw_S_A.png
+384,ENE_NML_DNG_CAV_380,Ancient Lizardman II,1,0,1,0,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_LzdSnw_S_B.png
+385,ENE_NML_DNG_CAV_390,Ancient Lizardman III,1,0,1,0,0,1,0,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_LzdSnw_S_C.png
+386,ENE_NML_DNG_CAV_400,Ancient Lizardman IV,1,0,0,0,0,0,0,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_LzdSnw_S_D.png
+387,ENE_NML_DNG_CAV_410,Ancient Lizardman V,1,0,0,0,0,0,0,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_LzdSnw_S_E.png
+388,ENE_NML_DNG_CAV_420,Ancient Lizardman VI,0,0,0,0,0,1,0,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_LzdSnw_S_F.png
+389,ENE_NML_DNG_CAV_430,Ancient Lizardking I,1,0,0,0,0,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_LzdSnw_M_A.png
+390,ENE_NML_DNG_CAV_440,Ancient Lizardking II,1,0,0,0,0,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_LzdSnw_M_B.png
+391,ENE_NML_DNG_CAV_450,Ancient Lizardking III,0,0,0,0,0,1,0,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_LzdSnw_M_C.png
+392,ENE_NML_DNG_FST_010,Manticore,0,0,1,1,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_LgrFst_M_A.png
+393,ENE_NML_DNG_FST_020,Menacing Manticore,0,0,0,1,0,0,1,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_LgrFst_M_B.png
+394,ENE_NML_DNG_FST_030,Spud Bug,1,0,0,0,1,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_CtpFst_S_A.png
+395,ENE_NML_DNG_FST_040,Shambling Weed,1,0,0,1,0,0,1,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_PltFst_S_A.png
+396,ENE_NML_DNG_FST_050,Rampant Weed,1,0,0,0,0,0,1,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_PltFst_S_B.png
+397,ENE_NML_DNG_FST_060,Skulking Fungoid,0,0,1,0,0,0,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_PltPln_M_A.png
+398,ENE_NML_DNG_FST_070,Furious Fungoid,0,0,0,1,1,0,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_PltPln_M_C.png
+399,ENE_NML_DNG_FST_080,Creeping Treant,1,0,0,0,0,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_PltClf_M_A.png
+400,ENE_NML_DNG_FST_090,Mutant Mushroom,1,0,0,0,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MshFst_M_A.png
+401,ENE_NML_DNG_FST_100,Mortal Mushroom,1,0,0,0,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_MshFst_M_C.png
+402,ENE_NML_DNG_FST_110,Ancient Ratkin I,1,0,0,0,1,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_MusFst_S_A.png
+403,ENE_NML_DNG_FST_120,Ancient Ratkin II,1,0,0,0,1,0,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MusFst_S_B.png
+404,ENE_NML_DNG_FST_130,Ancient Ratkin III,1,0,0,0,1,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_MusFst_S_C.png
+405,ENE_NML_DNG_FST_140,Ancient Ratkin IV,1,0,0,1,1,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_MusFst_S_D.png
+406,ENE_NML_DNG_FST_150,Ancient Ratkin V,0,0,0,1,1,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_MusFst_S_E.png
+407,ENE_NML_DNG_FST_160,Ancient Ratkin VI,1,0,0,0,0,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_MusFst_S_F.png
+408,ENE_NML_DNG_FST_170,Ancient Ratking I,0,1,0,1,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MusFst_M_A.png
+409,ENE_NML_DNG_FST_180,Ancient Ratking II,0,1,0,1,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_MusFst_M_B.png
+410,ENE_NML_DNG_FST_190,Ancient Ratking III,0,0,1,0,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_MusFst_M_C.png
+411,ENE_NML_DNG_RIN_010,Remnant,0,0,0,0,0,0,1,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_A.png
+412,ENE_NML_DNG_RIN_020,Remnant Mk.II,0,0,0,0,0,0,1,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_B.png
+413,ENE_NML_DNG_RIN_030,Flame Remnant,0,1,0,0,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_C.png
+414,ENE_NML_DNG_RIN_040,Flame Remnant Mk.II,0,1,0,0,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_D.png
+415,ENE_NML_DNG_RIN_050,Ice Remnant,1,0,0,0,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_E.png
+416,ENE_NML_DNG_RIN_060,Ice Remnant Mk.II,1,0,0,0,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_F.png
+417,ENE_NML_DNG_RIN_070,Wind Remnant,0,0,1,0,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_G.png
+418,ENE_NML_DNG_RIN_080,Wind Remnant Mk.II,0,0,1,0,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_H.png
+419,ENE_NML_DNG_RIN_090,Thunder Remnant,0,0,0,1,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_I.png
+420,ENE_NML_DNG_RIN_100,Thunder Remnant Mk.II,0,0,0,1,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_J.png
+421,ENE_NML_DNG_RIN_110,Light Remnant,0,0,0,0,0,1,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_K.png
+422,ENE_NML_DNG_RIN_120,Light Remnant Mk.II,0,0,0,0,0,1,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_L.png
+423,ENE_NML_DNG_RIN_130,Shadow Remnant,0,0,0,0,1,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_M.png
+424,ENE_NML_DNG_RIN_140,Shadow Remnant Mk.II,0,0,0,0,1,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_N.png
+425,ENE_NML_DNG_RIN_150,Blood Remnant,0,1,0,0,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_O.png
+426,ENE_NML_DNG_RIN_160,Dark Remnant,0,0,0,0,1,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GlmDst_M_P.png
+427,ENE_NML_DNG_RIN_170,Revenant,0,0,0,0,0,0,1,0,1,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_GlmDng_L_A.png
+428,ENE_NML_DNG_RIN_180,Flame Revenant,0,1,0,0,0,0,1,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_GlmDng_L_B.png
+429,ENE_NML_DNG_RIN_190,Ice Revenant,1,0,0,0,0,0,1,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_GlmDng_L_C.png
+430,ENE_NML_DNG_RIN_200,Wind Revenant,0,0,1,0,0,0,1,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_GlmDng_L_D.png
+431,ENE_NML_DNG_RIN_210,Thunder Revenant,0,0,0,1,0,0,1,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_GlmDng_L_E.png
+432,ENE_NML_DNG_RIN_220,Light Revenant,0,0,0,0,0,1,1,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_GlmDng_L_F.png
+433,ENE_NML_DNG_RIN_230,Shadow Revenant,0,0,0,0,1,0,1,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_GlmDng_L_G.png
+434,ENE_NML_DNG_RIN_240,Blood Revenant,0,1,0,0,0,0,1,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_GlmDng_L_H.png
+435,ENE_NML_DNG_RIN_250,Dark Revenant,0,0,0,0,1,0,1,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_GlmDng_L_I.png
+436,ENE_NML_DNG_RIN_260,Vagrant Lizardman I,0,1,0,0,0,1,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_LzdDst_S_A.png
+437,ENE_NML_DNG_RIN_270,Vagrant Lizardman II,0,1,0,0,0,1,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_LzdDst_S_B.png
+438,ENE_NML_DNG_RIN_280,Vagrant Lizardman III,0,0,1,0,0,1,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_LzdDst_S_C.png
+439,ENE_NML_DNG_RIN_290,Vagrant Lizardman IV,0,1,0,1,0,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_LzdDst_S_D.png
+440,ENE_NML_DNG_RIN_300,Vagrant Lizardman V,0,1,0,1,0,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_LzdDst_S_E.png
+441,ENE_NML_DNG_RIN_310,Vagrant Lizardman VI,0,1,1,0,0,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_LzdDst_S_F.png
+442,ENE_NML_DNG_RIN_320,Twisted Lizardman I,0,1,0,1,0,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_LzdOtr_S_A.png
+443,ENE_NML_DNG_RIN_330,Twisted Lizardman II,0,1,0,1,0,0,0,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_LzdOtr_S_B.png
+444,ENE_NML_DNG_RIN_340,Twisted Lizardman III,0,1,0,1,1,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_LzdOtr_S_C.png
+445,ENE_NML_DNG_RIN_350,Vagrant Lizardking I,0,1,0,0,0,1,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_LzdDst_M_A.png
+446,ENE_NML_DNG_RIN_360,Vagrant Lizardking II,0,1,0,0,0,1,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_LzdDst_M_B.png
+447,ENE_NML_DNG_RIN_370,Vagrant Lizardking III,0,0,1,1,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_LzdDst_M_C.png
+448,ENE_NML_DNG_RIN_380,Twisted Lizardking I,0,1,0,0,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_LzdOtr_M_B.png
+449,ENE_NML_DNG_RIN_390,Twisted Lizardking II,0,1,0,0,0,0,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_LzdOtr_M_C.png
+450,ENE_NML_DNG_RIN_400,Twisted Lizardking III,0,1,0,0,0,0,0,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_LzdOtr_M_A.png
+451,ENE_NML_DNG_HUS_010,Sentinel,0,0,0,0,0,0,1,1,0,1,1,1,.\enemyicons\UiTX_BtlActOrd_L_SecRsd_S_A.png
+452,ENE_NML_DNG_HUS_020,Sentinel Mk.II,0,0,0,0,0,0,1,1,0,1,1,1,.\enemyicons\UiTX_BtlActOrd_L_SecRsd_S_B.png
+453,ENE_NML_DNG_HUS_030,Fire Sentinel,0,1,0,0,0,0,0,1,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SecRsd_S_C.png
+454,ENE_NML_DNG_HUS_040,Fire Sentinel Mk.II,0,1,0,0,0,0,1,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SecRsd_S_D.png
+455,ENE_NML_DNG_HUS_050,Ice Sentinel,1,0,0,0,0,0,0,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SecRsd_S_E.png
+456,ENE_NML_DNG_HUS_060,Ice Sentinel Mk.II,1,0,0,0,0,0,1,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SecRsd_S_F.png
+457,ENE_NML_DNG_HUS_070,Thunder Sentinel,0,0,0,1,0,0,1,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_SecRsd_S_G.png
+458,ENE_NML_DNG_HUS_080,Thunder Sentinel Mk.II,0,0,0,1,0,0,1,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SecRsd_S_H.png
+459,ENE_NML_DNG_HUS_090,Light Sentinel,0,0,0,0,0,1,0,0,0,1,1,1,.\enemyicons\UiTX_BtlActOrd_L_SecRsd_S_I.png
+460,ENE_NML_DNG_HUS_100,Light Sentinel Mk.II,0,0,0,0,0,1,1,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SecRsd_S_J.png
+461,ENE_NML_DNG_HUS_110,Dark Sentinel,0,0,0,0,1,0,1,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SecRsd_S_K.png
+462,ENE_NML_DNG_HUS_120,Dark Sentinel Mk.II,0,0,0,0,1,0,1,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SecRsd_S_L.png
+463,ENE_NML_DNG_HUS_130,Wind Sentinel,0,0,1,0,0,0,1,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SecRsd_S_M.png
+464,ENE_NML_DNG_HUS_140,Wind Sentinel Mk.II,0,0,1,0,0,0,1,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_SecRsd_S_N.png
+465,ENE_NML_DNG_HUS_150,Guardian,0,0,0,0,0,0,1,1,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_AndRsd_M_A.png
+466,ENE_NML_DNG_HUS_160,Guardian Mk.II,0,0,0,0,0,0,1,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AndRsd_M_B.png
+467,ENE_NML_DNG_HUS_170,Flame Guardian,0,1,0,0,0,0,1,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_AndRsd_M_C.png
+468,ENE_NML_DNG_HUS_180,Flame Guardian Mk.II,0,1,0,0,0,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AndRsd_M_D.png
+469,ENE_NML_DNG_HUS_190,Ice Guardian,1,0,0,0,0,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AndRsd_M_E.png
+470,ENE_NML_DNG_HUS_200,Ice Guardian Mk.II,1,0,0,0,0,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AndRsd_M_F.png
+471,ENE_NML_DNG_HUS_210,Thunder Guardian,0,0,0,1,0,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AndRsd_M_G.png
+472,ENE_NML_DNG_HUS_220,Thunder Guardian Mk.II,0,0,0,1,0,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AndRsd_M_H.png
+473,ENE_NML_DNG_HUS_230,Light Guardian,0,0,0,0,0,1,1,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_AndRsd_M_I.png
+474,ENE_NML_DNG_HUS_240,Light Guardian Mk.II,0,0,0,0,0,1,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_AndRsd_M_J.png
+475,ENE_NML_DNG_HUS_250,Dark Guardian,0,0,0,0,1,0,1,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_AndRsd_M_K.png
+476,ENE_NML_DNG_HUS_260,Dark Guardian Mk.II,0,0,0,0,1,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AndRsd_M_L.png
+477,ENE_NML_DNG_HUS_270,Wind Guardian,0,0,1,0,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AndRsd_M_M.png
+478,ENE_NML_DNG_HUS_280,Wind Guardian Mk.II,0,0,1,0,0,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AndRsd_M_N.png
+479,ENE_NML_DNG_HUS_290,Curator,0,0,0,0,0,0,0,1,1,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_AnvRsd_M_A.png
+480,ENE_NML_DNG_HUS_300,Curator Mk.II,0,0,0,0,0,0,0,0,1,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_AnvRsd_M_B.png
+481,ENE_NML_DNG_HUS_310,Flame Curator,0,1,0,0,0,0,0,1,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_AnvRsd_M_C.png
+482,ENE_NML_DNG_HUS_320,Flame Curator Mk.II,0,1,0,0,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AnvRsd_M_D.png
+483,ENE_NML_DNG_HUS_330,Ice Curator,1,0,0,0,0,0,0,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_AnvRsd_M_E.png
+484,ENE_NML_DNG_HUS_340,Ice Curator Mk.II,1,0,0,0,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_AnvRsd_M_F.png
+485,ENE_NML_DNG_HUS_350,Thunder Curator,0,0,0,1,0,0,0,1,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_AnvRsd_M_G.png
+486,ENE_NML_DNG_HUS_360,Thunder Curator Mk.II,0,0,0,1,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AnvRsd_M_H.png
+487,ENE_NML_DNG_HUS_370,Light Curator,0,0,0,0,0,1,0,1,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_AnvRsd_M_I.png
+488,ENE_NML_DNG_HUS_380,Light Curator Mk.II,0,0,0,0,0,1,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AnvRsd_M_J.png
+489,ENE_NML_DNG_HUS_390,Dark Curator,0,0,0,0,1,0,0,1,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_AnvRsd_M_K.png
+490,ENE_NML_DNG_HUS_400,Dark Curator Mk.II,0,0,0,0,1,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AnvRsd_M_L.png
+491,ENE_NML_DNG_HUS_410,Wind Curator,0,0,1,0,0,0,0,1,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_AnvRsd_M_M.png
+492,ENE_NML_DNG_HUS_420,Wind Curator Mk.II,0,0,1,0,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AnvRsd_M_N.png
+493,ENE_NML_DNG_HUS_430,Guard Dog,0,0,1,0,0,0,1,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_DogRsd_S_A.png
+494,ENE_NML_DNG_HUS_440,War Dog,1,0,1,0,0,0,0,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_DogRsd_S_B.png
+495,ENE_NML_DNG_HUS_450,Diamante Guard I,0,0,0,0,0,1,0,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Tou1_SolEvt_M_A.png
+496,ENE_NML_DNG_HUS_460,Diamante Guard II,0,0,0,0,0,1,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Tou1_SolEvt_M_B.png
+497,ENE_NML_WTR_010,Ancient Froggen I,0,1,0,0,1,0,0,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FrgPln_S_A.png
+498,ENE_NML_WTR_020,Ancient Froggen II,0,1,0,0,1,0,0,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FrgPln_S_B.png
+499,ENE_NML_WTR_030,Ancient Froggen III,0,1,0,0,0,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_FrgPln_S_C.png
+500,ENE_NML_WTR_040,Ancient Froggen IV,0,1,0,0,1,0,0,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_FrgPln_S_D.png
+501,ENE_NML_WTR_050,Ancient Froggen V,0,1,0,0,1,0,0,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_FrgPln_S_E.png
+502,ENE_NML_WTR_060,Ancient Froggen VI,0,1,0,0,0,0,0,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_FrgPln_S_F.png
+503,ENE_NML_WTR_070,Ancient Frogking I,0,1,0,0,0,1,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_FrgPln_M_A.png
+504,ENE_NML_WTR_080,Ancient Frogking II,0,1,0,0,0,1,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_FrgPln_M_B.png
+505,ENE_NML_WTR_090,Ancient Frogking III,0,0,1,0,0,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FrgPln_M_C.png
+506,ENE_NML_WTR_100,Vagrant Froggen I,0,1,0,0,0,1,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_FrgRvr_S_A.png
+507,ENE_NML_WTR_110,Vagrant Froggen II,0,1,0,0,0,1,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FrgRvr_S_B.png
+508,ENE_NML_WTR_120,Vagrant Froggen III,0,1,0,0,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FrgRvr_S_C.png
+509,ENE_NML_WTR_130,Vagrant Froggen IV,0,1,0,0,0,1,0,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_FrgRvr_S_D.png
+510,ENE_NML_WTR_140,Vagrant Froggen V,0,1,0,0,0,1,0,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_FrgRvr_S_E.png
+511,ENE_NML_WTR_150,Vagrant Froggen VI,0,1,0,0,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_FrgRvr_S_F.png
+512,ENE_NML_WTR_160,Vagrant Frogking I,0,0,0,1,0,1,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_FrgRvr_M_A.png
+513,ENE_NML_WTR_170,Vagrant Frogking II,0,0,0,1,0,1,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_FrgRvr_M_B.png
+514,ENE_NML_WTR_180,Vagrant Frogking III,0,1,0,0,0,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FrgRvr_M_C.png
+515,ENE_NML_WTR_190,Ancient Fish,0,0,1,1,0,0,0,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_AncWtr_S_A.png
+516,ENE_NML_WTR_200,Fossilized Fish,0,0,1,0,0,1,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_AncWtr_S_C.png
+517,ENE_NML_WTR_210,Savage Ancient Fish,0,0,1,0,0,0,1,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_AncWtr_S_B.png
+518,ENE_NML_WTR_220,Shrewd Fossilized Fish,0,0,1,0,0,1,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_AncWtr_S_D.png
+519,ENE_NML_WTR_230,Crimson Ammonite,0,0,1,0,1,1,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_AmmWtr_S_A.png
+520,ENE_NML_WTR_240,Ivory Ammonite,0,1,0,0,0,0,0,1,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_AmmWtr_S_C.png
+521,ENE_NML_WTR_250,Cruel Crimson Ammonite,0,0,0,1,0,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_AmmWtr_S_B.png
+522,ENE_NML_WTR_260,Insidious Ivory Ammonite,0,0,0,1,0,1,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_AmmWtr_S_D.png
+523,ENE_NML_WTR_270,Red Betta,0,1,0,0,0,0,0,0,1,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_FinWtr_S_A.png
+524,ENE_NML_WTR_280,Blue Betta,0,1,1,0,0,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_FinWtr_S_C.png
+525,ENE_NML_WTR_290,Ruby Betta,0,1,0,0,0,0,0,1,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_FinWtr_S_B.png
+526,ENE_NML_WTR_300,Sapphire Betta,1,0,0,0,0,1,0,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FinWtr_S_D.png
+527,ENE_NML_WTR_310,Blue Jellyfish,0,1,1,0,0,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_JlyWtr_S_A.png
+528,ENE_NML_WTR_320,Gold Jellyfish,0,1,0,0,0,1,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_JlyWtr_S_C.png
+529,ENE_NML_WTR_330,Dire Blue Jellyfish,1,0,0,0,1,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_JlyWtr_S_B.png
+530,ENE_NML_WTR_340,Dire Gold Jellyfish,1,1,0,0,0,0,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_JlyWtr_S_D.png
+531,ENE_NML_WTR_350,Ebony Eel,0,1,1,0,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_UngWtr_M_A.png
+532,ENE_NML_WTR_360,Ivory Eel,1,0,0,0,0,1,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_UngWtr_M_C.png
+533,ENE_NML_WTR_370,Thorny Eel,0,1,0,0,0,0,0,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_UngWtr_M_B.png
+534,ENE_NML_WTR_380,Spiny Eel,1,0,0,0,0,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_UngWtr_M_D.png
+535,ENE_NML_WTR_390,Maneater,0,0,1,0,0,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_ShkWtr_M_A.png
+536,ENE_NML_WTR_400,Vicious Shark,0,0,1,0,0,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_ShkWtr_M_C.png
+537,ENE_NML_WTR_410,Shipeater,0,0,0,0,0,1,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_ShkWtr_M_B.png
+538,ENE_NML_WTR_420,Savage Shark,0,0,0,0,0,1,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_ShkWtr_M_D.png
+539,ENE_NML_WTR_430,Electric Catfish,0,0,0,0,0,1,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_NmzWtr_M_A.png
+540,ENE_NML_WTR_440,Whiskered Catfish,0,0,0,0,0,1,1,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_NmzWtr_M_C.png
+541,ENE_NML_WTR_450,Thunder Catfish,0,0,0,0,0,1,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_NmzWtr_M_B.png
+542,ENE_NML_WTR_460,Bearded Catfish,0,0,0,0,0,1,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_NmzWtr_M_D.png
+543,ENE_NML_WTR_470,Duca,0,1,0,0,0,0,1,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_FlaWtr_M_A.png
+544,ENE_NML_WTR_480,Dishi,1,0,0,1,0,1,0,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FlaWtr_M_C.png
+545,ENE_NML_WTR_490,Ducaduca,0,1,0,0,0,1,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FlaWtr_M_B.png
+546,ENE_NML_WTR_500,Dishidishi,1,0,0,0,0,1,0,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_FlaWtr_M_D.png
+547,ENE_NML_WTR_510,Snowland Octopuff Traveler,0,0,0,0,0,0,1,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_OctSnw_S_A.png
+548,ENE_NML_WTR_520,Mountain Octopuff Traveler,0,0,0,0,0,0,1,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_OctMnt_S_A.png
+549,ENE_NML_WTR_530,City Octopuff Traveler,0,0,0,0,0,0,1,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_OctCty_S_A.png
+550,ENE_NML_WTR_540,Island Octopuff Traveler,0,0,0,0,0,0,1,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_OctIsd_S_A.png
+551,ENE_NML_WTR_550,Ocean Octopuff Traveler,0,0,0,0,0,0,1,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_OctSea_S_A.png
+552,ENE_NML_WTR_560,Desert Octopuff Traveler,0,0,0,0,0,0,1,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_OctDst_S_A.png
+553,ENE_NML_WTR_570,Forest Octopuff Traveler,0,0,0,0,0,0,1,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_OctFst_S_A.png
+554,ENE_NML_WTR_580,Wasteland Octopuff Traveler,0,0,0,0,0,0,1,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_OctWld_S_A.png
+555,ENE_NML_WTR_590,Queen Octopuff,0,0,0,0,0,0,1,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_OctRar_S_A.png
+556,ENE_NML_WTR_600,King Octopuff,0,0,0,0,0,0,1,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_OctRar_S_B.png
+557,ENE_NML_OCN_010,Vagrant Birdian I,1,0,1,0,0,0,1,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_BrdSea_S_A.png
+558,ENE_NML_OCN_020,Vagrant Birdian II,1,0,1,0,0,0,1,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_BrdSea_S_B.png
+559,ENE_NML_OCN_030,Vagrant Birdian III,1,0,0,1,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_BrdSea_S_C.png
+560,ENE_NML_OCN_040,Vagrant Birdian IV,1,0,1,0,0,0,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_BrdSea_S_D.png
+561,ENE_NML_OCN_050,Vagrant Birdian V,1,0,1,0,0,0,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_BrdSea_S_E.png
+562,ENE_NML_OCN_060,Vagrant Birdian VI,1,0,0,1,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_BrdSea_S_F.png
+563,ENE_NML_OCN_070,Vagrant Birdking I,0,0,1,0,0,0,0,1,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_BrdSea_M_A.png
+564,ENE_NML_OCN_080,Vagrant Birdking II,0,0,1,0,0,0,0,1,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_BrdSea_M_B.png
+565,ENE_NML_OCN_090,Vagrant Birdking III,1,0,1,0,0,0,0,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_BrdSea_M_C.png
+566,ENE_NML_OCN_100,Sea Angel,0,0,1,0,0,0,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_CloOcn_S_A.png
+567,ENE_NML_OCN_110,Sea Seraphim,0,0,1,0,0,0,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_CloOcn_S_B.png
+568,ENE_NML_OCN_120,Pufferfish,0,1,0,0,0,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FugOcn_S_A.png
+569,ENE_NML_OCN_130,Barbed Fish,0,1,0,0,0,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FugOcn_S_B.png
+570,ENE_NML_OCN_140,Seahorse,1,0,0,0,0,1,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_DrgOcn_S_A.png
+571,ENE_NML_OCN_150,Sea Dragon,1,0,0,0,0,1,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_DrgOcn_S_B.png
+572,ENE_NML_OCN_160,Devious Dolphin,1,0,0,0,0,1,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_DlpOcn_M_A.png
+573,ENE_NML_OCN_170,Swordfish,1,0,1,1,0,0,0,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_MlnOcn_M_A.png
+574,ENE_NML_OCN_180,Dark Manta,0,1,1,0,0,0,0,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_MntOcn_M_A.png
+575,ENE_NML_OCN_190,Battle-Worn Shark,1,0,0,0,0,0,0,1,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_ShkOcn_L_A.png
+576,ENE_NML_OCN_200,Scourge of the Sea,1,0,0,0,1,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_UmbOcn_L_A.png
+577,ENE_NML_OCN_210,Landwalker,0,0,1,0,1,0,0,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_FshOcn_S_A.png
+578,ENE_NML_OCN_220,Great Landwalker,1,0,0,0,1,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_FshOcn_S_B.png
+579,ENE_NML_OCN_230,Winged Landwalker,0,0,1,0,0,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_FshOcn_M_A.png
+580,ENE_NML_NGT_010,Ancient Birdian I,0,0,1,0,1,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_BrdClf_S_A.png
+581,ENE_NML_NGT_020,Ancient Birdian II,0,0,1,0,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_BrdClf_S_B.png
+582,ENE_NML_NGT_030,Ancient Birdian III,1,0,1,0,0,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_BrdClf_S_C.png
+583,ENE_NML_NGT_040,Ancient Birdian IV,0,0,1,0,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_BrdClf_S_D.png
+584,ENE_NML_NGT_050,Ancient Birdian V,0,0,1,0,0,0,1,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_BrdClf_S_E.png
+585,ENE_NML_NGT_060,Ancient Birdian VI,0,0,0,0,0,1,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_BrdClf_S_F.png
+586,ENE_NML_NGT_070,Ancient Birdking I,0,0,1,0,0,0,1,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_BrdClf_M_A.png
+587,ENE_NML_NGT_080,Ancient Birdking II,0,0,1,0,0,0,1,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_BrdClf_M_B.png
+588,ENE_NML_NGT_090,Ancient Birdking III,0,0,0,0,0,0,0,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_BrdClf_M_C.png
+589,ENE_NML_OTR_010,Shadow Wisp,1,0,1,1,1,0,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_ElmDrk_S_A.png
+590,ENE_NML_OTR_020,Wind Wisp,0,0,1,0,1,0,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_ElmWnd_S_A.png
+591,ENE_NML_OTR_030,Light Wisp,0,1,0,1,0,1,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_ElmLit_S_A.png
+592,ENE_NML_OTR_040,Fire Wisp,0,1,1,1,0,1,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_ElmFre_S_A.png
+593,ENE_NML_OTR_050,Ice Wisp,1,0,1,0,1,1,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_ElmWtr_S_A.png
+594,ENE_NML_OTR_060,Thunder Wisp,0,1,0,1,1,1,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_ElmTnd_S_A.png
+595,ENE_NML_OTR_070,Dark Elemental,1,0,0,0,1,0,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_ElmDrk_M_A.png
+596,ENE_NML_OTR_080,Wind Elemental,0,0,1,0,1,0,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_ElmWnd_M_A.png
+597,ENE_NML_OTR_090,Light Elemental,0,1,0,0,0,1,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_ElmLit_M_A.png
+598,ENE_NML_OTR_100,Fire Elemental,0,1,0,0,0,1,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_ElmFre_M_A.png
+599,ENE_NML_OTR_110,Ice Elemental,1,0,1,0,0,0,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_ElmWtr_M_A.png
+600,ENE_NML_OTR_120,Lightning Elemental,0,0,0,1,0,1,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_ElmTnd_M_A.png
+601,ENE_NML_OTR_130,Cait,0,0,0,0,0,0,1,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_CatRar_S_A.png
+602,ENE_NML_OTR_140,Cultured Cait,0,0,0,0,0,0,1,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_CatRar_S_B.png
+603,ENE_NML_OTR_150,Chubby Cait,0,0,0,0,0,0,1,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_CatRar_M_A.png
+604,ENE_EVE_DAN_CTY_010,Troupe Member I,0,0,0,1,0,0,0,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_Odo2_AcmEvt_M_B.png
+605,ENE_EVE_DAN_CTY_020,Troupe Member II,0,1,0,1,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Odo2_AcfEvt_M_B.png
+606,ENE_EVE_MER_SEA_010,Roque's Guard I,0,1,1,0,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_ShoE_RocEvt_M_A.png
+607,ENE_EVE_MER_SEA_020,Roque's Guard II,0,0,1,0,0,0,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_ShoE_RocEvt_M_B.png
+608,ENE_EVE_WAR_DST_040,Elite Ku Soldier,0,0,1,0,1,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken4_KukEvt_M_B.png
+609,ENE_EVE_WAR_DST_050,Ku Bowman,0,0,1,1,0,0,1,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_Ken4_KukEvt_M_C.png
+610,ENE_NML_DNG_HUS_470,Snowhare,0,0,1,0,1,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Tou2_ThiEvt_M_E.png
+611,ENE_NML_DNG_HUS_480,Guard,1,0,0,0,0,0,1,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Gak3_SolEvt_M_E.png
+612,ENE_NML_ENC_SUB_01,Lord of the Sands,0,1,0,0,1,0,1,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_WrmDst_L_A.png
+613,ENE_NML_ENC_SUB_02,Dreadwolf,1,0,0,1,0,0,0,1,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_WlfSnw_L_A.png
+614,ENE_NML_ENC_SUB_03,Behemoth,0,1,0,0,0,0,0,1,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_MmsPln_L_A.png
+615,ENE_NML_ENC_SUB_04,Devourer of Dreams,0,0,0,1,0,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_DmnMnt_L_A.png
+616,ENE_NML_ENC_SUB_05,Gigantes,1,1,1,0,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BflRvr_L_A.png
+617,ENE_NML_ENC_SUB_06,Monarch,0,0,0,0,0,1,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_BtfFst_L_A.png
+618,ENE_NML_ENC_SUB_07,Manymaws,1,0,0,0,0,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_MblFst_L_A.png
+619,ENE_NML_ENC_SUB_08,Deep One,1,0,0,0,1,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_KrkSea_L_A.png
+620,ENE_NML_ENC_SUB_09,Tyrannodrake,0,0,0,0,0,0,1,1,1,1,1,1,.\enemyicons\UiTX_BtlActOrd_L_DrgCav_L_A.png
+621,ENE_NML_ENC_SUB_10,Carnivorous Plant,1,1,0,0,1,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_FlwFst_L_A.png
+622,ENE_NML_ENC_SUB_11,Heavenwing,0,0,1,0,0,0,1,1,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_BdrClf_L_A.png
+623,ENE_NML_ENC_SUB_12,Battle-Worn Shark,1,0,0,0,0,0,0,1,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_ShkOcn_L_A.png
+624,ENE_NML_ENC_SUB_13,Scourge of the Sea,1,0,0,0,1,0,1,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_UmbOcn_L_A.png
+625,ENE_EVE_WAR_DST_010,Southern Soldier I,0,0,0,0,0,0,1,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken1_SutEvt_M_A.png
+626,ENE_EVE_WAR_DST_011,Southern Soldier II,0,0,1,0,0,0,1,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken1_SutEvt_M_B.png
+627,ENE_EVE_WAR_DST_020,Southern Officer,0,0,1,0,0,0,1,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken1_SutEvt_M_C.png
+628,ENE_EVE_WAR_DST_030,Southern General,0,0,1,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken1_SutEvt_L_A.png
+629,ENE_EVE_WAR_DST_080,Ruffian Soldier I,0,0,0,0,0,0,0,1,1,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_Ken1_MgnEvt_M_A.png
+630,ENE_EVE_WAR_DST_090,Ruffian Soldier II,0,1,0,0,0,0,0,0,1,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_KenE_MgnEvt_M_B.png
+631,ENE_EVE_WAR_MNT_010,Zeto the Butcher,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken2_ZetEvt_M_A.png
+632,ENE_EVE_WAR_MNT_020,Gladiator I,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken1_SutEvt_M_A.png
+633,ENE_EVE_WAR_MNT_030,Gladiator I,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken1_SutEvt_M_A.png
+634,ENE_EVE_WAR_MNT_040,Gladiator I,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken1_SutEvt_M_A.png
+635,ENE_EVE_WAR_MNT_050,Gladiator I,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken1_SutEvt_M_A.png
+636,ENE_EVE_WAR_MNT_060,Gladiator I,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken1_SutEvt_M_A.png
+637,ENE_EVE_WAR_MNT_070,Gladiator I,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken1_SutEvt_M_A.png
+638,ENE_EVE_WAR_FST_010,Ku Soldier,0,1,0,0,1,0,0,1,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken3_KukEvt_M_A.png
+639,ENE_EVE_WAR_FST_020,General Rou,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken3_LawEvt_M_A.png
+640,ENE_EVE_WAR_SNW_010,Kunzo,0,0,1,0,0,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken4_KunEvt_L_A.png
+641,ENE_EVE_WAR_SNW_020,Bandit Chief,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken1_SutEvt_M_A.png
+642,ENE_EVE_WAR_SNW_030,Bandit,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Ken1_SutEvt_M_A.png
+643,ENE_EVE_WAR_SNW_040,Clan Mei Spearman,1,0,0,0,0,1,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Ken4_MeiEvt_M_A.png
+644,ENE_EVE_WAR_SNW_050,Clan Mei Swordsman,1,0,1,0,0,1,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Ken4_MeiEvt_M_B.png
+645,ENE_EVE_MER_WLD_010,Thug I,1,0,0,0,0,0,1,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Sho1_GngEvt_M_A.png
+646,ENE_EVE_MER_CTY_010,Guard,1,0,1,0,0,0,0,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Sho2_RocEvt_M_C.png
+647,ENE_EVE_CLE_MNT_010,Vide the Wicked God,0,0,0,0,1,0,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Sin1_BlfEvt_M_A.png
+648,ENE_EVE_CLE_MNT_020,Insurgent,0,0,1,0,1,0,0,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_Sin1_BlfEvt_M_A.png
+649,ENE_EVE_CLE_MNT_030,Insurgent,1,0,1,0,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_SinE_SolEvt_M_D.png
+650,ENE_EVE_CLE_SNW_010,Dubious Figure,0,0,1,0,1,0,0,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_Sin1_BlfEvt_M_A.png
+651,ENE_EVE_DAN_MNT_010,Hired Man,0,0,0,1,0,1,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_OdoE_GngEvt_M_G.png
+652,ENE_EVE_SCH_SNW_010,Reinforcement Guard I,0,1,1,0,0,0,0,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Gak2_JalEvt_M_B.png
+653,ENE_EVE_SCH_SNW_011,Reinforcement Guard II,0,0,1,0,0,0,0,0,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_Gak1_JalEvt_M_A.png
+654,ENE_EVE_SCH_SEA_010,Lady Clarissa,0,0,1,0,0,0,0,1,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Gak3_ClaEvt_M_A.png
+655,ENE_EVE_SCH_MNT_010,Synthesized Creature,0,1,0,0,0,0,0,0,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_Gak4_MnsEvt_M_A.png
+656,ENE_EVE_SCH_MNT_020,Deformed Creature,0,1,0,0,1,0,0,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Gak4_MnsEvt_M_B.png
+657,ENE_EVE_SCH_MNT_030,Cobbled Creature,0,0,1,0,0,0,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_Gak4_MnsEvt_M_C.png
+658,ENE_EVE_SCH_WLD_010,Small Golem,1,1,0,0,1,0,0,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_GakE_GlmEvt_M_A.png
+659,ENE_EVE_HUN_ISD_010,King Iguana,0,0,1,0,0,0,0,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_Kar1_IguEvt_L_A.png
+660,ENE_EVE_HUN_ISD_020,Mysterious Fledgling,0,0,0,1,0,0,0,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Kar1_DakEvt_S_A.png
+661,ENE_EVE_HUN_SEA_010,Alpione,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Kar2_AlpEvt_M_A.png
+662,ENE_EVE_HUN_SEA_020,Cateracta,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Kar2_LevEvt_L_A.png
+663,ENE_EVE_THI_CTY_010,Pursuer,0,0,0,0,0,1,1,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Tou1_PurEvt_M_A.png
+664,ENE_EVE_THI_CTY_020,Pursuer Leader,0,0,0,0,0,1,0,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Tou1_PurEvt_M_B.png
+665,ENE_EVE_THI_CTY_030,Suspicious Man I,0,1,0,0,0,0,0,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_TouE_GngEvt_M_E.png
+666,ENE_EVE_THI_CTY_040,Suspicious Man II,1,1,0,0,1,0,0,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_TouE_GngEvt_M_F.png
+667,ENE_EVE_LST_DRK_010,,0,1,0,0,0,0,1,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_S_A.png
+668,ENE_EVE_LST_DRK_020,,1,0,0,0,0,0,0,1,1,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_S_B.png
+669,ENE_EVE_LST_DRK_030,,0,1,0,0,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_S_C.png
+670,ENE_EVE_LST_DRK_040,,0,0,0,1,0,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_S_D.png
+671,ENE_EVE_LST_DRK_060,,1,0,0,0,0,0,0,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_M_B.png
+672,ENE_EVE_LST_DRK_070,,0,0,0,1,1,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_M_C.png
+673,ENE_EVE_LST_DRK_080,,0,0,1,0,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_M_D.png
+674,ENE_EVE_APO_THI_010,Dire Duorduor,1,0,0,0,0,0,1,0,0,0,1,1,.\enemyicons\UiTX_BtlActOrd_L_Coup_BosBoar_L_B.png
+675,ENE_EVE_SCH_MER_010,Thug I,1,0,1,0,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Coup_GngEvt_M_I.png
+676,ENE_EVE_SCH_MER_020,Thug II,0,1,1,0,0,0,0,1,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Coup_GngEvt_M_J.png
+677,ENE_EVE_SCH_MER_025,Thug III,0,0,1,0,1,0,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Coup_GngEvt_M_K.png
+678,ENE_EVE_SCH_MER_030,Thug Leader,0,0,0,0,1,0,0,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_Coup_GngEvt_M_H.png
+679,ENE_EVE_SUB_EXT_010,Priestess Hinoekagura,0,1,0,0,0,1,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Sub_BosKitoushi_L_A.png
+680,ENE_EVE_SUB_EXT_011,Auðnvarg,1,0,0,0,1,0,0,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_Sub_BosBeast_L_B.png
+681,ENE_EVE_SUB_EXT_012,Tyran the Seeker,1,0,0,0,0,1,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Sub_TnfEvt_M_A.png
+682,ENE_EVE_SUB_EXT_013,Ichchadhari the Snake Charmer,0,0,1,0,0,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Sub_SnpEvt_M_A.png
+683,ENE_EVE_SUB_EXT_014,Ivory Snake,0,1,0,0,1,0,1,0,0,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_Sub_SnkEvt_M_A.png
+684,ENE_EVE_SUB_EXT_020,,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaUp_LL_A.png
+685,ENE_EVE_SUB_EXT_030,,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_BosGardellaLow_LL_A.png
+686,ENE_EVE_SUB_OTR_010,Buttermeep,0,1,1,0,0,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Kar2_PigEvt_S_A.png
+687,ENE_EVE_SUB_OTR_020,Grotesque Monster,0,1,0,0,1,0,0,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_Coup_BosDark_L_B.png
+688,ENE_EVE_SUB_OTR_030,Twisted Spawn,0,0,0,0,0,0,0,0,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_Coup_DakEvt_S_B.png
+689,ENE_EVE_SUB_OTR_040,,0,0,0,0,0,0,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Coup_BosDark_L_C.png
+690,ENE_EVE_SUB_OTR_050,,0,0,0,0,0,0,1,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Coup_DakEvt_S_C.png
+691,ENE_EVE_SUB_OTR_060,War Wolf,1,0,0,0,0,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Sub_WlfEvt_S_A.png
+692,ENE_EVE_SUB_OTR_070,Creeping Shadow,0,1,0,0,1,0,0,1,0,1,1,0,.\enemyicons\UiTX_BtlActOrd_L_Coup_BosArm_L_A.png
+693,ENE_EVE_SUB_OTR_080,Wriggling Shadow,0,0,0,1,1,0,1,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Coup_BosArm_L_B.png
+694,ENE_EVE_LST_DRK_090,Shadowy Shaggy Aurochs,0,0,0,0,1,0,0,1,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_M_E.png
+695,ENE_EVE_LST_DRK_100,Shadowy Birdian,0,0,0,0,1,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_M_H.png
+696,ENE_EVE_LST_DRK_110,Shadowy Animated Armor,0,0,0,0,1,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_M_G.png
+697,ENE_EVE_LST_DRK_120,Shadowy Furious Fungoid,0,0,0,1,1,0,0,1,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_M_F.png
+698,ENE_EVE_LST_DRK_130,Shadowy Peek-a-Boo,0,0,1,0,1,0,0,0,1,1,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_M_I.png
+699,ENE_EVE_LST_DRK_140,Shadowy Horse Fly,0,0,0,0,1,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_S_E.png
+700,ENE_EVE_LST_DRK_050,Shadowy Demon Deer,0,0,1,0,1,0,0,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_M_A.png
+701,ENE_EVE_LST_DRK_150,Shadowy Ratkin,1,1,1,1,1,0,0,0,0,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_M_J.png
+702,ENE_EVE_LST_DRK_160,Shadowy Demon Jellyfish,0,0,1,0,1,0,0,0,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_End_MonEvt_M_K.png
+703,ENE_EVE_SUB_EXT_016,Delsta Devil,0,0,1,0,0,0,0,1,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_ShkOcn_L_B.png
+704,ENE_EVE_JNP_ALT_010,Suspicious Man,1,0,0,0,1,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Sub_ThiEvt_M_F.png
+705,ENE_EVE_SUB_SNW_010,Ruffian Leader,0,0,1,0,0,0,0,1,0,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_Sub_BndEvt_M_A.png
+706,ENE_EVE_SUB_SNW_020,Ruffian I,1,0,0,0,1,0,1,0,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Sub_BndEvt_M_B.png
+707,ENE_EVE_SUB_SNW_030,Ruffian II,1,0,0,0,0,1,0,0,1,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Sub_BndEvt_M_C.png
+708,ENE_EVE_SUB_OTR_100,Brigand,0,0,0,0,1,0,0,1,1,1,0,1,.\enemyicons\UiTX_BtlActOrd_L_Tou2_ThiEvt_M_C.png
+709,ENE_NPC_KAR_2A_010,Alpione,0,0,0,1,1,1,1,0,1,0,0,0,.\enemyicons\UiTX_BtlActOrd_L_Kar2_AlpEvt_M_A.png
+710,ENE_NPC_KEN_30_020,General Rou,0,0,1,0,0,0,0,1,0,0,1,0,.\enemyicons\UiTX_BtlActOrd_L_Ken3_LawEvt_M_A.png
+711,ENE_NPC_Fld_Wld_3_2_0100,Shadowy Boy,0,0,1,0,1,0,0,0,0,0,0,1,.\enemyicons\UiTX_BtlActOrd_L_Sub_ElmEvt_M_E.png
